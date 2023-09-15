@@ -1,0 +1,15 @@
+Body{
+background = image  url();
+background = size : cover;
+background = repeat no-repeat;
+background = attachment : fixed;
+background = center center;
+color: white;
+font - family : arial , sans-serif;
+text - aling : center;
+margin: 0;
+padding: 0;
+}
+#content{
+background - color : rgba (0,0,0,0.7);
+padding: 20Px
