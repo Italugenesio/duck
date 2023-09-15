@@ -4,9 +4,9 @@ background = size : cover;
 background = repeat no-repeat;
 background = attachment : fixed;
 background = center center;
-color: white;
+color: orange;
 font - family : arial , sans-serif;
-text - aling : center;
+text - aling : left;
 margin: 0;
 padding: 0;
 }
