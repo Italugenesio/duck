@@ -11,11 +11,45 @@ margin: 0;
 padding: 0;
 }
 #content{
+flex: 1;
 background - color : rgba (0,0,0,0.7);
 padding: 20Px
+text-aling: center;
+}
 
+h1 {
 font size : 36 Px
 margin-top:20 Px
+text-aling: center;
 }
-margin: 20 Px 0;
+
+p {
+font-size: 20px;
 max-width: 600 Px;
+margin: 20px auto;
+}
+
+.button-container {
+text-aling: center ;
+margin-top: 20px;
+}
+
+.button {
+display: inline-block;
+padding: 10px 20px;
+background-color: #000
+color: white;
+text-decorantion: none;
+font-weight: bold
+border: none;
+cursor: pointer;
+margin-right:10px;
+margin-bottom: 10px;
+border-radius: 5px;
+display: block;
+}
+
+.button:hover{
+background-color: #000; /* orange
+}
+
