@@ -53,3 +53,7 @@ display: block;
 background-color: #000; /* orange
 }
 
+.button:hover {
+  background-color: # 000;
+}
+
